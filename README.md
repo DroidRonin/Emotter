@@ -6,3 +6,4 @@
 4. tweetclass.py creates instances of the tweets
 5. For experimenting with perceptron, change the values in perceptron.py file
 6. Multi-class perceptron takes the updated weights from perceptron class and predicts the output. 
+7. Sentiment analysis.py makes use of CNN-LSTM architecture to use sentiment features as part of emotion modeling
