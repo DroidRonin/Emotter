@@ -7,3 +7,4 @@
 5. For experimenting with perceptron, change the values in perceptron.py file
 6. Multi-class perceptron takes the updated weights from perceptron class and predicts the output. 
 7. sentiment_analysis.py makes use of CNN-LSTM architecture to use sentiment features as part of emotion modeling
+8. [emotter-report.pdf](https://github.com/DroidRonin/Emotter/blob/main/emotter-report.pdf) has the report for the project submission.
